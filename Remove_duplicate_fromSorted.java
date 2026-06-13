@@ -22,5 +22,6 @@ System.out.println("array after remove duplicates");
 for(int i=0;i<=x;i++){
     System.out.print(arr[i]+" ");
 }
+sc.close();
    }
 }
